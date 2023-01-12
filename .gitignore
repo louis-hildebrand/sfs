@@ -1,0 +1,12 @@
+# File system
+.sfs_store
+/filesystem/
+
+# Binaries
+sfs_new
+sfs_old
+sfs_test*
+!sfs_test*.c
+
+# Log files (e.g., for test output)
+*.log
