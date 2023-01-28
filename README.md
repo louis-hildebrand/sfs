@@ -1,7 +1,7 @@
 # sfs (Louis Hildebrand)
 
 ## Background
-This is a simple file system that can be run with FUSE on Ubuntu 18. It was developed for assignment 2 of ECSE 427: Operating Systems at McGill University in the Fall 2022 semester.
+This is a simple file system that can be run with FUSE on Ubuntu 18. It was developed for assignment 3 of ECSE 427: Operating Systems at McGill University in the Fall 2022 semester.
 
 The disk emulator (`disk_emu.c`, `disk_emu.h`), FUSE wrapper (`fuse_wrap_old.c`, `fuse_wrap_new.c`), and tests (`sfs_test0.c`, `sfs_test1.c`, `sfs_test2.c`, `sfs_tst3.c`) were all provided by the course staff (Prof. Muthucumaru Maheswaran and the TAs). A Makefile was also provided, but it was substantially modified.
 
